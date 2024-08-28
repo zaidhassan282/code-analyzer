@@ -1,0 +1,9 @@
+
+ijtemai class B{
+}
+class A extends B{
+  void Main(){
+
+  }
+} 
+
